@@ -1,5 +1,5 @@
 /*
-Theme Name: Richard
+Theme Name: Lil Qell
 Theme URI: https://templatesjungle.com/
 Author: TemplatesJungle
 Author URI: https://templatesjungle.com/
@@ -409,4 +409,5 @@ button.filter-button.active,
 button.filter-button:hover {
   color: var(--bs-light);
   background: var(--primary-color);
+
 }
